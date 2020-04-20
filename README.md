@@ -26,7 +26,8 @@ Cascading Style Sheets(CSS) file contains requirements like classes and ids prov
 # master_detail.js
 Javascript file contains requirements like the message alerts, hidden button clicks, AJAX call to populate data in single line text field by on click function on rows of first column in datatable etc.
 
-Jpl file contains code for the validation of user on login screen.  
+# master_detail.jpl
+Jpl file contains code for screen entry function and populating data after on click.  
 
 Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb "Named link title") 
 
