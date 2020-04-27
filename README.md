@@ -29,6 +29,8 @@ Javascript file contains requirements like the message alerts, hidden button cli
 # master_detail.jpl
 Jpl file contains code for screen entry function and populating data after on click.  
 
+
+
 Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb "Named link title") 
 
 [Click Here](https://prolifics.com/panther-trial-license-request/ "Named link title") for a 45-day license.
