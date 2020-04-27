@@ -27,7 +27,8 @@ Cascading Style Sheets(CSS) file contains requirements like classes and ids prov
 Javascript file contains requirements like the message alerts, hidden button clicks, AJAX call to populate data in single line text field by on click function on rows of first column in datatable etc.
 
 # master_detail.jpl
-Jpl file contains code for screen entry function and populating data after on click.  
+Jpl file contains code for screen entry function and populating data after on click.
+
 
 
 
