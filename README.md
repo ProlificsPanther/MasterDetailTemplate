@@ -8,7 +8,7 @@ Latest Bootstrap libraries were used to transform the plan screen into a modern,
 Panther Web 5.5*
 
 # This repository consists of 5 files
-* Panther screen with name MasterDetail
+* Panther screen - MasterDetail
 * MasterDetail.html
 * MasterDetail.css
 * MasterDetail.js
