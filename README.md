@@ -30,7 +30,7 @@ Javascript file contains requirements like the message alerts, hidden button cli
 Jpl file contains code for screen entry function and populating data after on click.
 
 
-Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb "Named link title") 
+Need the latest Panther Web 5.*. Please contact support@prolifics.com
 
 How to set up a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases "Named link title")
 
