@@ -1,5 +1,5 @@
 # MasterDetailTemplate
-A simple  MasterDetail HTML Template that helps in designing Responsive Panther Web screen with AJAX and JQuery calls. Below is the screenshot of the completed MasterDetail screen in the Brower.
+A simple  MasterDetail HTML Template that helps in designing Responsive Panther Web screen with AJAX and JQuery calls. Below is the screenshot of the completed MasterDetail screen in the Browser.
 Latest Bootstrap libraries were used to transform the plan screen into a modern, responsive screen. It includes AJAX and JQuery calls to fetch the data by on click function on Bootstrap Datatable. 
 
 ![](MasterDetail.PNG)
@@ -27,7 +27,7 @@ Cascading Style Sheets(CSS) file contains requirements like classes and ids prov
 Javascript file contains requirements like the message alerts, hidden button clicks, AJAX call to populate data in single line text field by on click function on rows of first column in datatable etc.
 
 # MasterDetail.jpl
-Jpl file contains code for screen entry function and populating data after on click.
+JPL file contains code for screen entry function and populating data after on click.
 
 
 Need the latest Panther Web 5.*. Please contact support@prolifics.com
